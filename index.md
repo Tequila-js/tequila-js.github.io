@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Tequila website
 
-You can use the [editor on GitHub](https://github.com/Tequila-js/tequila-js.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're a team in Guadalajara, Jalisco excited to learn new stuff, this is our site, we use it to manage our knowledge, maybe this can be useful to you, maybe not, but we're here to code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Lunch & Learn
+Is a **monthly** meeting with food where we speak about technologies. It could be as open as we want. E.g _web technologies in any language_.
+- **Recurrence time: TBA**
+- **Place: EPAM - Room TBA**
 
-### Markdown
+# Coding Dojos
+A Coding Dojo is a periodic meeting (_usually weekly_) organized around a programming challenge where people are encouraged to participate and share their coding skills while solving the problem. The main principles of the Coding Dojo are to create a Safe Environment which is collaborative, inclusive, and non-competitive where people can be continuously learning. _It is OK to fail when learning something new_.
+* Our Recipe
+  - Problem Choosing
+  - Problem Discussion
+  - Coding Session (_pair programming_)
+  - Retrospective
+    - _What Went Well?_
+    - _What Went Less Well?_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Recurrence time: TBA**
+- **Place: EPAM - Room TBA**
 
-```markdown
-Syntax highlighted code block
+# Pet Projects
+Are Open Source Projects to learn new stuff regarding web technologies. These are for a team of up to 4 developers, every team is self-managed so every team is responsible of their work time, tasks, tools and technologies stack.
 
-# Header 1
-## Header 2
-### Header 3
+- Currently 3 teams at EPAM.
 
-- Bulleted
-- List
+# Team Book Reading
+A **Weekly** session to read a book and talk about it in a _chapter-by-seasson_ way. One chapter is going to be talked by a candidate and everyone else are going to be audience. At the end of the talk, everyone could arise their thoughts in that chapter so we can learn as a team.
 
-1. Numbered
-2. List
+- **Recurrence time: TBA**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tequila-js/tequila-js.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://js.org" target="_blank" title="JS.ORG | JavaScript Community">
+<img src="https://logo.js.org/dark_horz.png" width="102" alt="JS.ORG Logo"/></a>
+<!-- alternatives [bright|dark]_[horz|vert|tiny].png (width[horz:102,vert:50,tiny:77]) -->
